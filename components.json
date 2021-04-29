@@ -1,0 +1,4 @@
+{
+  "citySelect": "./packages/citySelect/index.js",
+  "datePicker": "./packages/datePicker/index.js"
+}
